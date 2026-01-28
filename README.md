@@ -174,4 +174,9 @@ Feel free to fork this project and adapt it to your needs! Suggestions for impro
 📄 License
 This project is for educational purposes as part of "The Complete SQL Bootcamp" course.
 
-Built with ❤️ using SQL Server | Last Updated: June 2025
+Built with ❤️ using SQL Server | Last Updated: Jan 206=26
+
+👨‍💻 About Me
+Civil Engineer turned Data Professional | With 5+ years in infrastructure engineering, I've transitioned to data engineering and GIS. Skilled in SQL, ETL pipelines, spatial analysis, and cloud platforms. Passionate about building data-driven solutions that bridge engineering precision with modern data analytics.
+
+🔗 Connect: [LinkedIn](https://www.linkedin.com/in/abdelrhmanhussein/) | 📧 Email: abdelrahmanhussein36@gmail.com
